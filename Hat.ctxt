@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=wn\ ag
+comment1.target=Hat(boolean,\ int)
+comment2.params=wn
+comment2.target=void\ setWorn(boolean)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ tooString()
+numComments=5
