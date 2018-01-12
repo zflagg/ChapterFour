@@ -12,12 +12,12 @@ public class Student
         this.idNumber = num;
         this.name = nm;
     }
-    public int combineIDNumbers() {
-        return this.idNumber + bestFriend.idNumber;
-    }
-    public student newStudent(Student other) {
-        Student temp = new Student(other.idNumber, this.name);
-    }
+    //public int combineIDNumbers() {
+    //    return this.idNumber + bestFriend.idNumber;
+    //}
+    //public student newStudent(Student other) {
+    //    Student temp = new Student(other.idNumber, this.name);
+    //}
     public int getID() {
         return this.idNumber;
     }
